@@ -2,7 +2,7 @@
 
 Front end:
 - [github](https://github.com/418code/react-mesto-auth/tree/final-jwt-local)
-- [https://api.mesto.418co.de](http://mesto.418co.de)
+- [http://mesto.418co.de](http://mesto.418co.de)
 
 Back end:
 - [github](https://github.com/418code/express-mesto)
