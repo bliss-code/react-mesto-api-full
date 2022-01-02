@@ -10,3 +10,6 @@ Back end:
 
 In addition to technologies described in corresponding github repositories,
 combined project uses a custom domain, GCP debian VM with Nginx, PM2 with auto reload script and Let's Encrypt SSL certificate.
+
+![GCP VM](./GCP_VM.png)
+![DNS](./DNS.png)
