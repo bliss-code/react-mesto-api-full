@@ -1,0 +1,19 @@
+.page__form-submit-btn {
+  border: none;
+  outline: none;
+  border-radius: 2px;
+  background-color: #000;
+  color: #fff;
+  font-size: 14px;
+  line-height: 16.94px;
+  padding: 15px 0;
+  width: 100%;
+  cursor: pointer;
+}
+
+@media (min-width: 530px) {
+  .page__form-submit-btn {
+    font-size: 18px;
+    line-height: 21.78px;
+  }
+}

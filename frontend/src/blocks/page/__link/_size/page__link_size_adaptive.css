@@ -1,0 +1,11 @@
+.page__link_size_adaptive {
+  font-size: 14px;
+  line-height: 16.94px;
+}
+
+@media (min-width: 530px) {
+  .page__link_size_adaptive {
+    font-size: 18px;
+    line-height: 22px;
+  }
+}

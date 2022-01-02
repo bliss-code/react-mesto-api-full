@@ -1,0 +1,15 @@
+.page__form-text_theme_black-box {
+  border-bottom: 2px solid #CCC;
+  background-color: #000;
+  color: #CCC;
+}
+
+.page__form-text_theme_black-box:last-of-type {
+  margin-bottom: 130px;
+}
+
+@media (min-width: 530px) {
+  .page__form-text_theme_black-box:last-of-type {
+    margin-bottom: 170px;
+  }
+}

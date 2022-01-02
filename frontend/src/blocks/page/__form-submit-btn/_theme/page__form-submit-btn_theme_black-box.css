@@ -1,0 +1,15 @@
+.page__form-submit-btn_theme_black-box {
+  background-color: #fff;
+  color: #000;
+  font-size: 16px;
+  line-height: 19px;
+  margin-bottom: 6px;
+}
+
+@media (min-width: 530px) {
+  .page__form-submit-btn_theme_black-box {
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 0;
+  }
+}

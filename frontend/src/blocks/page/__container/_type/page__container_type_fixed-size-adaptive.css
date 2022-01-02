@@ -1,0 +1,12 @@
+.page__container_type_fixed-size-adaptive {
+  min-width: 280px;
+  min-height: 308px;
+  justify-content: center;
+}
+
+@media (min-width: 530px) {
+  .page__container_type_fixed-size-adaptive {
+    min-height: 330px;
+    min-width: 430px;
+  }
+}

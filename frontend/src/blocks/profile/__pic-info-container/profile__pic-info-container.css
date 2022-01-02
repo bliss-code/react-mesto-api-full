@@ -1,0 +1,14 @@
+.profile__pic-info-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+@media (min-width: 768px) {
+  .profile__pic-info-container {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}

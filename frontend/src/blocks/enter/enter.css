@@ -1,0 +1,9 @@
+.enter {
+  padding-top: 0;
+}
+
+@media (min-width: 530px) {
+  .enter {
+    padding-top: 24px;
+  }
+}

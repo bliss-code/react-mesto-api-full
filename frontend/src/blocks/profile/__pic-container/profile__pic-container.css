@@ -1,0 +1,10 @@
+.profile__pic-container {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  width: 168.75px;
+  height: 127.5px;
+  margin-bottom: 22.25px;
+  color: #000;
+}

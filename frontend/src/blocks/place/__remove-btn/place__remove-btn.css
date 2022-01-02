@@ -1,0 +1,12 @@
+.place__remove-btn {
+  width: 18px;
+  height: 19.3px;
+  background: url(../../../images/trash.svg) no-repeat center;
+  outline: none;
+  border: none;
+  z-index: 1;
+  cursor: pointer;
+  grid-column-start: 18;
+  grid-row: 2/3;
+  justify-self: center;
+}
